@@ -1,0 +1,17 @@
+{
+    "dependencies": {
+        "libraries": []
+    },
+    "dataStudio": {
+        "name": "eKyte Data Studio Connector",
+        "logoUrl": "https://avatars.githubusercontent.com/u/101305913",
+        "company": "eKyte - Software de Gestão de Marketing Digital",
+        "companyUrl": "https://ekyte.com",
+        "addonUrl": "https://github.com/eKyte/ekyte-googledatastudio-connector",
+        "supportUrl": "https://github.com/eKyte/ekyte-googledatastudio-connector/issues",
+        "description": "A community connector that connect to eKyte and get all paginated data from API.",
+        "sources": [
+            ""
+        ]
+    }
+}
