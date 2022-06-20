@@ -3,20 +3,21 @@
   "dependencies": {
   },
   "exceptionLogging": "STACKDRIVER",
+  "oauthScopes": ["https://www.googleapis.com/auth/script.external_request"],
   "runtimeVersion": "V8",
   "dataStudio": {
     "name": "eKyte",
-    "authType": ["NONE"],
-    "feeType": ["FREE"],
     "logoUrl": "https://avatars.githubusercontent.com/u/101305913",
     "company": "eKyte - Software de Gestão de Marketing Digital",
     "companyUrl": "https://ekyte.com",
     "addonUrl": "https://github.com/eKyte/ekyte-googledatastudio-connector",
     "supportUrl": "https://github.com/eKyte/ekyte-googledatastudio-connector/issues",
-    "privacyPolicyUrl": "https://www.ekyte.com/",
-    "termsOfServiceUrl": "https://www.ekyte.com/",
     "description": "This Data Studio Community Connector lets users query the eKyte API. If necessary, this connector execute more than one requesto to eKyte API to read all pages returned by query.",
+    "sources": ["EKYTE"],
     "shortDescription": "This Data Studio Community Connector lets users query the eKyte API.",
-    "sources": ["EKYTE"]    
+    "authType": ["NONE"],
+    "feeType": ["FREE"],
+    "privacyPolicyUrl": "https://www.ekyte.com/pt-br/politica-de-privacidade-para-conector-data-studio/",
+    "termsOfServiceUrl": "https://www.ekyte.com/pt-br/termos-de-uso/"
   }
 }
