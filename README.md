@@ -8,7 +8,7 @@ the [eKyte](https://www.ekyte.com/) API.
 
 [Termos of use](https://www.ekyte.com/pt-br/termos-de-uso/)
 
-[Privacy Policy](https://www.ekyte.com/pt-br/termos-de-uso/)
+[Privacy Policy](https://www.ekyte.com/pt-br/politica-de-privacidade-para-conector-data-studio/)
 
 ## Deploy the Community Connector yourself
 
