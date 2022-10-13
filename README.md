@@ -1,5 +1,7 @@
 # eKyte Community Connector for Data Studio
 
+# DEPRECATED - eKyte no more support Google Data Studio integrations
+
 *This is not an official Google product*
 
 This [Data Studio](https://datastudio.google.com) [Community
